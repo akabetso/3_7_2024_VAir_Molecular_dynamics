@@ -1,0 +1,22 @@
+ATOM      1  S   LIG L   1      44.752  63.392  11.009  1.00  0.00      LIG  S  
+ATOM      2  C1  LIG L   1      44.755  61.560  10.869  1.00  0.00      LIG  C  
+ATOM      3  H1  LIG L   1      44.771  61.134  11.897  1.00  0.00      LIG  H  
+ATOM      4  H2  LIG L   1      45.686  61.217  10.365  1.00  0.00      LIG  H  
+ATOM      5  C2  LIG L   1      43.531  60.965  10.104  1.00  0.00      LIG  C  
+ATOM      6  H3  LIG L   1      42.608  61.278  10.638  1.00  0.00      LIG  H  
+ATOM      7  N1  LIG L   1      43.497  61.585   8.713  1.00  0.00      LIG  N  
+ATOM      8  H4  LIG L   1      44.393  61.810   8.287  1.00  0.00      LIG  H  
+ATOM      9  H5  LIG L   1      42.827  61.255   8.026  1.00  0.00      LIG  H  
+ATOM     10  C3  LIG L   1      43.593  59.423  10.203  1.00  0.00      LIG  C  
+ATOM     11  O   LIG L   1      43.599  58.831  11.282  1.00  0.00      LIG  O  
+ATOM     12  H6  LIG L   1      43.598  59.222   8.185  1.00  0.00      LIG  H  
+ATOM     13  N2  LIG L   1      43.655  58.736   9.050  1.00  0.00      LIG  N  
+ATOM     14  C4  LIG L   1      43.840  57.318   8.974  1.00  0.00      LIG  C  
+ATOM     15  H7  LIG L   1      43.132  56.794   9.657  1.00  0.00      LIG  H  
+ATOM     16  H8  LIG L   1      44.872  57.072   9.313  1.00  0.00      LIG  H  
+ATOM     17  C5  LIG L   1      43.642  56.839   7.602  1.00  0.00      LIG  C  
+ATOM     18  H9  LIG L   1      43.361  56.151   5.435  1.00  0.00      LIG  H  
+ATOM     19  C6  LIG L   1      43.495  56.484   6.446  1.00  0.00      LIG  C  
+ATOM     20  H10 LIG L   1      45.906  63.495  11.650  1.00  0.00      LIG  H  
+TER      21      LIG L   1                                                       
+END   

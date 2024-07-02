@@ -1,0 +1,43 @@
+HEADER
+REMARK Spartan'24 exported M0001
+HETATM    1  S   UNK  0001       1.739   4.578   2.499
+HETATM    2  C   UNK  0001       1.787   2.755   2.440
+HETATM    3  H   UNK  0001       2.719   2.430   1.962
+HETATM    4  H   UNK  0001       1.794   2.374   3.468
+HETATM    5  C   UNK  0001       0.579   2.191   1.677
+HETATM    6  H   UNK  0001      -0.358   2.521   2.143
+HETATM    7  N   UNK  0001       0.554   2.599   0.242
+HETATM    8  H   UNK  0001      -0.370   2.368  -0.132
+HETATM    9  H   UNK  0001       0.614   3.619   0.199
+HETATM   10  C   UNK  0001       0.616   0.653   1.796
+HETATM   11  O   UNK  0001       0.618   0.075   2.879
+HETATM   12  H   UNK  0001       0.917   0.576  -0.202
+HETATM   13  N   UNK  0001       0.648  -0.005   0.588
+HETATM   14  C   UNK  0001       0.864  -1.425   0.522
+HETATM   15  H   UNK  0001       1.884  -1.629   0.865
+HETATM   16  H   UNK  0001       0.172  -1.924   1.209
+HETATM   17  C   UNK  0001       0.672  -1.893  -0.853
+HETATM   18  H   UNK  0001       0.375  -2.618  -2.981
+HETATM   19  C   UNK  0001       0.515  -2.276  -1.981
+HETATM   20  H   UNK  0001       2.860   4.842   3.176
+CONECT    1    2   20
+CONECT    2    3    4    1    5
+CONECT    3    2
+CONECT    4    2
+CONECT    5    6    2    7   10
+CONECT    6    5
+CONECT    7    8    9    5
+CONECT    8    7
+CONECT    9    7
+CONECT   10    5   11   13
+CONECT   11   10
+CONECT   12   13
+CONECT   13   12   10   14
+CONECT   14   15   16   13   17
+CONECT   15   14
+CONECT   16   14
+CONECT   17   14   19
+CONECT   18   19
+CONECT   19   18   17
+CONECT   20    1
+END
