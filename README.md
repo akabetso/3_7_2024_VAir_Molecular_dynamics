@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was developed by VAir under the sponsorship and guidance of Sup'Bi>
+This project was developed by VAir under the sponsorship and guidance of Sup'Biotech and Descartes Developpement et Innovation.
 
 This project focuses on studying the stability of protein modification, particularly by incorporating a click reaction at the C-terminus of a protein. This allows a linker to be attached, facilitating the attachment of a single domain antibody (nanobody) to a gold surface. Given the stability of single domain nanobodies, our objective was to understand how modifications affect the protein's conformational stability and binding sites.
 
@@ -45,3 +45,22 @@ This project focuses on studying the stability of protein modification, particul
 ## Installation
 
 NAMD Linux Version 3.0b7 (2024-05-10) was downloaded and used for this work.
+
+## Reference
+
+1. Simões, B., Guedens, W. J., Keene, C., Kubiak-Ossowska, K., Mulheran, P., Kotowska, A. M., Scurr, D. J.,
+Alexander, M. R., Broisat, A., Johnson, S., Muyldermans, S., Devoogdt, N., Adriaensens, P., & Mendes, P. M. (2021).
+Direct Immobilization of Engineered Nanobodies on Gold Sensors. ACS applied materials & interfaces, 13(15),
+17353–17360. https://doi.org/10.1021/acsami.1c02280
+2. Singh, A. N., & Sharma, N. (2019). Epigenetic Modulators as Potential Multi-targeted Drugs Against Hedgehog
+Pathway for Treatment of Cancer. The Protein Journal. doi:10.1007/s10930-019-09832-9
+3. Hicks C, Dhiman A, Barrymore C, Goswami T. Traumatic Brain Injury Biomarkers, Simulations and Kinetics.
+Bioengineering (Basel). 2022 Oct 25;9(11):612. doi: 10.3390/bioengineering9110612. PMID: 36354523; PMCID:
+PMC9687153.
+4. Liu, L., Cai, L., Chu, Y., & Zhang, M. (2022). Thermostability mechanisms of β-agarase by analyzing its structure
+through molecular dynamics simulation. AMB Express, 12(1), 50. https://doi.org/10.1186/s13568-022-01394-x
+5. Singh, A. N., & Sharma, N. (2019). Epigenetic Modulators as Potential Multi-targeted Drugs Against Hedgehog
+Pathway for Treatment of Cancer. The Protein Journal. doi:10.1007/s10930-019-09832-9
+6. Aslan, T., Yenenler-Kutlu, A., Gerlevik, U., Aktuğlu Zeybek, A. Ç., Kıykım, E., Sezerman, O. U., & Birgul Iyison, N.
+(2021). Identifying and elucidating the roles of Y198N and Y204F mutations in the PAH enzyme through molecular
+dynamic simulations. Journal of Biomolecular Structure and Dynamics, 1–12. doi:10.1080/07391102.2021.1921619
