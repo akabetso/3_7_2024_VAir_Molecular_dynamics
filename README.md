@@ -6,6 +6,10 @@ This project was developed by VAir under the sponsorship and guidance of Sup'Bio
 
 This project focuses on studying the stability of protein modification, particularly by incorporating a click reaction at the C-terminus of a protein. This allows a linker to be attached, facilitating the attachment of a single domain antibody (nanobody) to a gold surface. Given the stability of single domain nanobodies, our objective was to understand how modifications affect the protein's conformational stability and binding sites.
 
+## Documentaton
+
+You can view the documentation in the [Documentation.ipynb](https://github.com/akabetso/3_7_2024_VAir_Molecular_dynamics/blob/master/Documentation.ipynb) file.
+
 ## Goals
 
 - **Study Conformational Changes**: Evaluate how protein modifications induce conformational changes.
