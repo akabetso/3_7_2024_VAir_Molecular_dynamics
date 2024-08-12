@@ -24,11 +24,11 @@ You can view the documentation in the [Documentation.ipynb](https://github.com/a
 
 - **NAMD**: Used for molecular dynamics simulations.
 - **Quantum Force Fields**: Employed to model the protein accurately and compare conformational changes.
-- **ChemDraw3D and Spaetran 24'**: used to design the linker for the click chemistry
+- **ChemDraw3D and Spartan 24'**: used to design the linker for the click chemistry
 
 ### Steps
 
-1. **Modification and Modeling**: Modify the protein to include a click reaction at its C-terminus.
+1. **Modification and Modeling**: Design the linker, model both linker and protein using quantum force field, move linker to site of interest and bond as needed.
 2. **Simulation**: Perform molecular dynamics simulations using NAMD.
 3. **Analysis**: Compare the conformational changes and binding site alterations pre- and post-modification.
 4. **Validation**: Cross-check our simulations with other studies in literature to ensure reproducibility.
